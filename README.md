@@ -372,4 +372,5 @@ Run the below command to show the volume protection with SnapMirror:
 > Go to slide 26
 
 ## Closing image test
-    ![](/static/images/UnchartedWaters_Clean.png)
+
+![](/static/images/UnchartedWaters_Clean.png)

@@ -370,3 +370,6 @@ Run the below command to show the volume protection with SnapMirror:
 - Objetive: Explain all the tasks done and resume the advantages of use NetApp storage
 
 > Go to slide 26
+
+## Closing image test
+    ![](/static/images/UnchartedWaters_Clean.png)
